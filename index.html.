@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christech Cyber - Online Services Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 15px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        h2, h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Christech Cyber</h1>
+        <p>Online Services Portfolio by Christopher Kyalo</p>
+    </header>
+
+    <nav>
+        <a href="#services">Services</a> |
+        <a href="#about">About</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="services">
+            <h2>Services Offered</h2>
+            
+            <h3>Driving License Services</h3>
+            <ul>
+                <li>Apply for Driver PSV Badge</li>
+                <li>Application for Provisional Driving License</li>
+                <li>Endorsement PDL</li>
+                <li>DL Copy of Record</li>
+                <li>Instructor License</li>
+                <li>Foreign Driving License Conversion</li>
+                <li>Motor Vehicle Copy of Records</li>
+                <li>Apply for Smart Driving License</li>
+                <li>Apply for Personalized Plates</li>
+                <li>Second Hand Vehicle Registration</li>
+                <li>Motor Vehicle Registration</li>
+                <li>Alternative/Forced Transfer</li>
+            </ul>
+            
+            <h3>Civil Registration Services</h3>
+            <h4>Birth Certificates</h4>
+            <p>Application for Current Birth Certificate</p>
+            <ul>
+                <li>Requirements:
+                    <ul>
+                        <li>Scanned copy of the birth notification.</li>
+                        <li>Scanned copy of identification documents for applicants above 18 years (National ID, Passport).</li>
+                        <li>Scanned copy of parent’s identification documents.</li>
+                    </ul>
+                </li>
+                <li>Service Fee: Kshs 250 (Application for Birth Certificate: 200, Ecitizen Access fee: 50)</li>
+            </ul>
+
+            <h4>Death Certificates</h4>
+            <ul>
+                <li>Current Death Payment - Countrywide</li>
+                <li>Current Death Certificate - Nairobi County</li>
+            </ul>
+
+            <h3>Department of Criminal Investigations</h3>
+            <ul>
+                <li>Apply for Certificate of Good Conduct</li>
+            </ul>
+
+            <h3>Business Registration</h3>
+            <ul>
+                <li>Register a Business</li>
+            </ul>
+
+            <h3>Marriage Services</h3>
+            <ul>
+                <li>Apply for a Marriage Certificate</li>
+            </ul>
+
+            <h3>Higher Education Loans Board (HELB)</h3>
+            <ul>
+                <li>Repay HELB loan</li>
+                <li>Get compliance and clearance certificates after completion</li>
+                <li>HELB Clearance Certificate</li>
+                <li>HELB loan application</li>
+            </ul>
+
+            <h3>KRA Services</h3>
+            <ul>
+                <li>Amend PIN details</li>
+                <li>Reprint PIN certificate</li>
+                <li>Amended returns</li>
+                <li>Nil returns</li>
+                <li>P9 returns</li>
+                <li>iTax Amnesty application</li>
+                <li>Payment registrations</li>
+                <li>Apply for tax compliance certificate</li>
+            </ul>
+
+            <h3>Additional Services</h3>
+            <ul>
+                <li>eCitizen phone number change (5 mins)</li>
+                <li>Retrieval of lost KRA PIN (10 mins)</li>
+                <li>KRA group PIN approval (3 hrs)</li>
+                <li>Retrieval of lost group PIN (15 mins)</li>
+                <li>KRA email change (20 mins)</li>
+                <li>New NHIF application</li>
+                <li>Retrieval of lost NHIF number</li>
+                <li>Retrieval of lost NSSF number</li>
+                <li>All TSC services (e.g., new TSC number)</li>
+                <li>Application of Smart DL (3 years)</li>
+                <li>Cover/CV writing & updating</li>
+                <li>Changing/updating NHIF number</li>
+                <li>Editing/converting documents</li>
+            </ul>
+
+            <p>For more information or specific service requests, please contact me directly.</p>
+        </section>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I'm Christopher Kyalo, the professional behind Christech Cyber. I provide a wide range of online and administrative services, including tax services, document processing, and eGovernment services. My goal is to deliver efficient and reliable solutions to meet your needs.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Email: christopherkyalo1@gmail.com</p>
+            <p>Phone: +254 791 080 353, +254 785 696 042</p>
+            <p>For quick inquiries, you can also reach me via WhatsApp at +254 791 080 353.</p>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2024 Christech Cyber | All Rights Reserved
+    </footer>
+
+</body>
+                  </html>
